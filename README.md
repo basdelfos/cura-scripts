@@ -11,7 +11,7 @@ macOS: /Applications/Cura/Cura.app/Contents/Resources/plugins/
 2. Restart Cura.
 
 
-## Ultimate Cura 3.x
+## Ultimaker Cura 3.x
 
 Location for Ultimaker Cura 3.x plugin scripts
 
