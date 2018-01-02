@@ -1,9 +1,9 @@
 # cura-scripts
 Cura scripts for changing filament on specific heights
 
-## Cura 15.06
+## Cura 15.04.6
 
-Location for Cura 15.06 plugin scripts
+Location for Cura 15.04.6 plugin scripts
 
 macOS: /Applications/Cura/Cura.app/Contents/Resources/plugins/
 
